@@ -6,7 +6,7 @@
 - Remove seeds
 - Bake pumpkin/squash
 - Take out the inside of the pumpkin
-- Use 2 cups of pumpkin pulp per pie
+- Use 3 cups of pumpkin pulp per pie
 
 
 ## Ingredients
@@ -19,7 +19,7 @@
 - 2 tsp cinnamon
 - 1 tsp ginger, ground or juice
 - 0.5 tsp ground cloves
-- 2 eggs
+- 1 egg
 
 
 ## Instructions
@@ -27,7 +27,7 @@
 - Mix dry ingredients
 - Add pumpkin pulp
 - Smash manually until somehow homogeneous
-- Add eggs and blend
+- Add eggs, don't blend
 - Add evaporated milk and blend
 
 
