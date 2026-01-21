@@ -1,5 +1,6 @@
 # Vegetarian lasagna recipe
 
+heel lekker, zonder vlees!
 
 ## Ingredients
 
